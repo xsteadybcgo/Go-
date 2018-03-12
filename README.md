@@ -1,2 +1,2 @@
 # Go
----Golang study fragment
+* Golang study fragment
